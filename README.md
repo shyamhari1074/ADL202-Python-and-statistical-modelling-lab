@@ -1,6 +1,6 @@
 # 📚 ADL 202 Python and Statistical Modeling Lab Works (KTU)  
 
-Welcome to my repository of **Jupyter Notebooks**, where you'll find a collection of Python-based experiments, visualizations, and algorithms designed to learn, explore, and innovate.  
+Welcome to my repository of **ADL 202 Python and Statistical Modeling Lab Works (KTU)**, where you'll find a collection of Python-based experiments, visualizations, and algorithms designed to learn, explore, and innovate.  
 
 ---
 
